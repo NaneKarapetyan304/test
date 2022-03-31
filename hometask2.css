@@ -1,0 +1,33 @@
+.p{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 37px;
+color: #000000;
+}
+.footer{
+    margin-top: 40px;
+    background: #F1F1F3;
+    padding-top: 6.996770721205597vh;
+    padding-bottom: 5.705059203444564vh;
+}
+.footer-logo{
+    margin-bottom: 24px;
+}
+.footer-a{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 22px;
+    color: #626777;
+    display: block;
+}
+.footer-a span{
+ font-weight: 600;
+}
+.footer-a:hover{
+ text-decoration: none;
+ color:black
+ }
+ 
